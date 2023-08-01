@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kavindu Dilshan</h1>
+<h1 align="center">Hi! I'm Kavindu Dilshan</h1>
 <h3 align="center">A passionate programmer from Sri Lanka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kavindu-dilshan&label=Profile%20views&color=0e75b6&style=flat" alt="kavindu-dilshan" /> </p>
@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **HTML, CSS and JavaScript.**
 
-- 📫 How to reach me **kavindudilshan84@gmail.com**
+- 📫 Contact me via **kavindudilshan84@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
